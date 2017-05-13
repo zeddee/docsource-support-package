@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterStylesheetOverride="True" xml:lang="en-gb" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlProviderType="Git" ProjectGuid="4720475a-ef53-4cbc-aba6-7f3bd9d3afdd" IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" DeleteUnreferenced="false" AutoSync="false" LastImport="2017-04-11T09:30:19.5948840+08:00" MasterToc="/Project/TOCs/Master.fltoc">
+    <Files>
+        <Url Source="file:///C:/Users/ztan/working/flare-projects/ER2/Enterprise Recon.flprj" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Enterprise Recon.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../ER2/Project/VariableSets/General.flvar" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Project/VariableSets/General.flvar" />
+        <Url Source="../ER2/Content/Print Only Topics/TOC.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/TOC.htm" />
+        <Url Source="../ER2/Content/Print Only Topics/Welcome.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/Welcome.htm" />
+        <Url Source="../ER2/Content/Scanning/Add Targets.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Add Targets.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Amazon.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Amazon.htm" />
+        <Url Source="../ER2/Content/Home.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Home.htm" />
+        <Url Source="../ER2/Content/Print Only Topics/Title.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/Title.htm" />
+        <Url Source="../ER2/Content/Print Only Topics/Index.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/Index.htm" />
+        <Url Source="../ER2/Content/Print Only Topics/Glossary.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/Glossary.htm" />
+        <Url Source="../ER2/Content/Installation/Web Console.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Web Console.htm" />
+        <Url Source="../ER2/Content/Installation/Windows Agent.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Windows Agent.htm" />
+        <Url Source="../ER2/Content/Print Only Topics/Appendix.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/Appendix.htm" />
+        <Url Source="../ER2/Content/Print Only Topics/Copyright.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Print Only Topics/Copyright.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Azure.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Azure.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Box.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Box.htm" />
+        <Url Source="../ER2/Content/Scanning/Server Targets/Email Locations.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Server Targets/Email Locations.htm" />
+        <Url Source="../ER2/Content/Scanning/Server Targets/Local Storage and Memory.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Server Targets/Local Storage and Memory.htm" />
+        <Url Source="../ER2/Content/Scanning/Server Targets/Network Storage Location.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Server Targets/Network Storage Location.htm" />
+        <Url Source="../ER2/Content/Scanning/Server Targets/Websites.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Server Targets/Websites.htm" />
+        <Url Source="../ER2/Content/Scanning/Server Targets/Databases.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Server Targets/Databases.htm" />
+        <Url Source="../ER2/Content/Scanning/Server Targets/Add Server Targets.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Server Targets/Add Server Targets.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Rackspace Cloud.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Rackspace Cloud.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Dropbox.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Dropbox.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Google Apps.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Google Apps.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/Office 365.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/Office 365.htm" />
+        <Url Source="../ER2/Content/Scanning/Cloud Targets/OneDrive.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Scanning/Cloud Targets/OneDrive.htm" />
+        <Url Source="../ER2/Content/Installation/Update ER2.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Update ER2.htm" />
+        <Url Source="../ER2/Content/Installation/Solaris.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Solaris.htm" />
+        <Url Source="../ER2/Content/D_Images/ImagePositionedLeft.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/ImagePositionedLeft.htm" />
+        <Url Source="../ER2/Content/A_Getting Started/Whats New.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/A_Getting Started/Whats New.htm" />
+        <Url Source="../ER2/Content/D_Images/ImagePositionedRight.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/ImagePositionedRight.htm" />
+        <Url Source="../ER2/Content/D_Images/Images.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/Images.htm" />
+        <Url Source="../ER2/Content/D_Images/ImageWithinList.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/ImageWithinList.htm" />
+        <Url Source="../ER2/Content/D_Images/ImageWithAbsolutePosition.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/ImageWithAbsolutePosition.htm" />
+        <Url Source="../ER2/Content/A_Getting Started/Getting Started.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/A_Getting Started/Getting Started.htm" />
+        <Url Source="../ER2/Content/A_Getting Started/Basic Steps.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/A_Getting Started/Basic Steps.htm" />
+        <Url Source="../ER2/Content/About the Software/Licensing.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/About the Software/Licensing.htm" />
+        <Url Source="../ER2/Content/About the Software/Licenses.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/About the Software/Licenses.htm" />
+        <Url Source="../ER2/Content/About the Software/Network Requirements.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/About the Software/Network Requirements.htm" />
+        <Url Source="../ER2/Content/About the Software/About the Software.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/About the Software/About the Software.htm" />
+        <Url Source="../ER2/Content/About the Software/System Requirements.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/About the Software/System Requirements.htm" />
+        <Url Source="../ER2/Content/About the Software/Supported File.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/About the Software/Supported File.htm" />
+        <Url Source="../ER2/Content/D_Images/Positioned Images.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/Positioned Images.htm" />
+        <Url Source="../ER2/Content/D_Images/ThumbnailImage.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/D_Images/ThumbnailImage.htm" />
+        <Url Source="../ER2/Content/Installation/Install Master Server.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Install Master Server.htm" />
+        <Url Source="../ER2/Content/Installation/HP-UX.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/HP-UX.htm" />
+        <Url Source="../ER2/Content/Installation/Linux Agent.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Linux Agent.htm" />
+        <Url Source="../ER2/Content/Installation/MAC Agent.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/MAC Agent.htm" />
+        <Url Source="../ER2/Content/Installation/Manage Node Agents.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Manage Node Agents.htm" />
+        <Url Source="../ER2/Content/Installation/Node Agents.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Node Agents.htm" />
+        <Url Source="../ER2/Content/Installation/gsg.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/gsg.htm" />
+        <Url Source="../ER2/Content/Installation/GPG.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/GPG.htm" />
+        <Url Source="../ER2/Content/E_Footer Topics/FAQs.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/E_Footer Topics/FAQs.htm" />
+        <Url Source="../ER2/Content/E_Footer Topics/Tips.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/E_Footer Topics/Tips.htm" />
+        <Url Source="../ER2/Content/E_Footer Topics/Company Information.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/E_Footer Topics/Company Information.htm" />
+        <Url Source="../ER2/Content/Installation/Enable HTTPS.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/Enable HTTPS.htm" />
+        <Url Source="../ER2/Content/Installation/FreeBSD.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Installation/FreeBSD.htm" />
+        <Url Source="../ER2/Content/E_Footer Topics/PDF Downloads.htm" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/E_Footer Topics/PDF Downloads.htm" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-dropbox-auth-final.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-dropbox-auth-final.png" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-dropbox-auth-2.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-dropbox-auth-2.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-new.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-new.png" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-dropbox-auth-3.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-dropbox-auth-3.png" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-box-auth-3.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-box-auth-3.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-target-azure.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-target-azure.png" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-azure-accesskeys.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-azure-accesskeys.png" />
+        <Url Source="../ER2/Content/Resources/Images/RedX.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/RedX.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-win-4.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-win-4.png" />
+        <Url Source="../ER2/Content/Resources/Images/GreenCheck.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/GreenCheck.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-targets-add.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-targets-add.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-amazonS3.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-amazonS3.png" />
+        <Url Source="../ER2/Content/Resources/Images/aws-createAccessKey.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/aws-createAccessKey.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-adminsdk.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-adminsdk.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-api.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-api.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2- -ailbox type.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2- -ailbox type.png" />
+        <Url Source="../ER2/Content/Resources/Images/rackspace-show-api-key-control-panel.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/rackspace-show-api-key-control-panel.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-internet-ssl.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-internet-ssl.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-target-lotus.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-target-lotus.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-select-target-type.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-select-target-type.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-target-EWS.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-target-EWS.png" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-onedrive-auth-3.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-onedrive-auth-3.png" />
+        <Url Source="../ER2/Content/Resources/Images/e2-target-cloud-onedrive-auth-2.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/e2-target-cloud-onedrive-auth-2.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-createServiceAccount.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-createServiceAccount.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-service.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-service.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-savePrivateKey.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-savePrivateKey.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-credentials.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-credentials.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-target-Google.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-target-Google.png" />
+        <Url Source="../ER2/Content/Resources/Images/google-security.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/google-security.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-win-3.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-win-3.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-win-2.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-win-2.png" />
+        <Url Source="../ER2/Content/Resources/Images/SaveButton.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/SaveButton.png" />
+        <Url Source="../ER2/Content/Resources/Images/Image.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/Image.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-https.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-https.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-firefox-insecure-3-e.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-firefox-insecure-3-e.png" />
+        <Url Source="../ER2/Content/Resources/Images/winscp.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/winscp.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-add-security-exception.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-add-security-exception.png" />
+        <Url Source="../ER2/Content/Resources/Images/diagram_ERNetwork.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/diagram_ERNetwork.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-licensedetails-clean.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-licensedetails-clean.png" />
+        <Url Source="../ER2/Content/Resources/Images/BasicSteps.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/BasicSteps.png" />
+        <Url Source="../ER2/Content/Resources/Images/KeyFeatures.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/KeyFeatures.png" />
+        <Url Source="../ER2/Content/Resources/Images/WhatsNew.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/WhatsNew.png" />
+        <Url Source="../ER2/Content/Resources/Images/FAQs.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/FAQs.png" />
+        <Url Source="../ER2/Content/Resources/Images/diagram_ERComponent.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/diagram_ERComponent.png" />
+        <Url Source="../ER2/Content/Resources/Images/PDF Cover.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/PDF Cover.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-installer-start.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-installer-start.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-warning.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-warning.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-admin.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-admin.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-verify-agent.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-verify-agent.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2_web_upload_license.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2_web_upload_license.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-licensedetails.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-licensedetails.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-download-dbruntime.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-download-dbruntime.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-pwd-recovery-noMTA.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-pwd-recovery-noMTA.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-agentmgr.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-agentmgr.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-MAC-installsuccess.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-MAC-installsuccess.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-clockUTC.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-clockUTC.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-clock.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-clock.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-password.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-password.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-install-complete.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-install-complete.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-MAC-installsoftware.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-MAC-installsoftware.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-MAC-nodeagent.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-MAC-nodeagent.png" />
+        <Url Source="../ER2/Content/Resources/Images/er2-select-target-type-netowrk.png" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Images/er2-select-target-type-netowrk.png" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../ER2/Content/Resources/TableStyles/StandardOnDarkBackground.css" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/TableStyles/StandardOnDarkBackground.css" />
+        <Url Source="../ER2/Project/ConditionTagSets/General.flcts" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Project/ConditionTagSets/General.flcts" />
+        <Url Source="../ER2/Content/Resources/MasterPages/core-master.flmsp" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/MasterPages/core-master.flmsp" />
+        <Url Source="../ER2/Content/Resources/Snippets/footer-standard.flsnp" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Snippets/footer-standard.flsnp" />
+        <Url Source="../ER2/Content/Resources/Snippets/MiniTOC.flsnp" AbsoluteSource="file:///C:/Users/ztan/working/flare-projects/ER2/Content/Resources/Snippets/MiniTOC.flsnp" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="Project/VariableSets/General.flvar" TimeStamp="3/4/2017 12:14:34 PM" />
+        <Url Source="Content/Print Only Topics/TOC.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Print Only Topics/Welcome.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Scanning/Add Targets.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Amazon.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Home.htm" TimeStamp="6/4/2017 6:20:50 PM" />
+        <Url Source="Content/Print Only Topics/Title.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Print Only Topics/Index.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Print Only Topics/Glossary.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Installation/Web Console.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/Installation/Windows Agent.htm" TimeStamp="3/4/2017 2:46:25 PM" />
+        <Url Source="Content/Print Only Topics/Appendix.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Print Only Topics/Copyright.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Azure.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Box.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Server Targets/Email Locations.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Server Targets/Local Storage and Memory.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Server Targets/Network Storage Location.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Server Targets/Websites.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Server Targets/Databases.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Server Targets/Add Server Targets.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Rackspace Cloud.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Dropbox.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Google Apps.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/Office 365.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Scanning/Cloud Targets/OneDrive.htm" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Installation/Update ER2.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/Installation/Solaris.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/D_Images/ImagePositionedLeft.htm" TimeStamp="6/4/2017 5:52:49 PM" />
+        <Url Source="Content/A_Getting Started/Whats New.htm" TimeStamp="6/4/2017 5:52:49 PM" />
+        <Url Source="Content/D_Images/ImagePositionedRight.htm" TimeStamp="6/4/2017 5:52:49 PM" />
+        <Url Source="Content/D_Images/Images.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/D_Images/ImageWithinList.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/D_Images/ImageWithAbsolutePosition.htm" TimeStamp="6/4/2017 5:52:49 PM" />
+        <Url Source="Content/A_Getting Started/Getting Started.htm" TimeStamp="6/4/2017 5:52:49 PM" />
+        <Url Source="Content/A_Getting Started/Basic Steps.htm" TimeStamp="6/4/2017 5:52:49 PM" />
+        <Url Source="Content/About the Software/Licensing.htm" TimeStamp="3/4/2017 4:26:58 PM" />
+        <Url Source="Content/About the Software/Licenses.htm" TimeStamp="3/4/2017 4:26:58 PM" />
+        <Url Source="Content/About the Software/Network Requirements.htm" TimeStamp="3/4/2017 4:26:58 PM" />
+        <Url Source="Content/About the Software/About the Software.htm" TimeStamp="31/3/2017 2:38:39 PM" />
+        <Url Source="Content/About the Software/System Requirements.htm" TimeStamp="3/4/2017 12:14:33 PM" />
+        <Url Source="Content/About the Software/Supported File.htm" TimeStamp="31/3/2017 2:38:39 PM" />
+        <Url Source="Content/D_Images/Positioned Images.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/D_Images/ThumbnailImage.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Installation/Install Master Server.htm" TimeStamp="3/4/2017 2:46:25 PM" />
+        <Url Source="Content/Installation/HP-UX.htm" TimeStamp="3/4/2017 4:26:58 PM" />
+        <Url Source="Content/Installation/Linux Agent.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/Installation/MAC Agent.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/Installation/Manage Node Agents.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/Installation/Node Agents.htm" TimeStamp="3/4/2017 2:46:25 PM" />
+        <Url Source="Content/Installation/gsg.htm" TimeStamp="3/4/2017 4:26:59 PM" />
+        <Url Source="Content/Installation/GPG.htm" TimeStamp="3/4/2017 4:26:58 PM" />
+        <Url Source="Content/E_Footer Topics/FAQs.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/E_Footer Topics/Tips.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/E_Footer Topics/Company Information.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Installation/Enable HTTPS.htm" TimeStamp="3/4/2017 4:26:58 PM" />
+        <Url Source="Content/Installation/FreeBSD.htm" TimeStamp="6/4/2017 5:27:32 PM" />
+        <Url Source="Content/E_Footer Topics/PDF Downloads.htm" TimeStamp="6/4/2017 5:52:50 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-dropbox-auth-final.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-dropbox-auth-2.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-new.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-dropbox-auth-3.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-box-auth-3.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-target-azure.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-azure-accesskeys.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/RedX.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/er2-install-win-4.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/GreenCheck.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/er2-targets-add.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-amazonS3.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/aws-createAccessKey.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-adminsdk.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-api.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2- -ailbox type.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/rackspace-show-api-key-control-panel.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-internet-ssl.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-target-lotus.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-select-target-type.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-target-EWS.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-onedrive-auth-3.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/e2-target-cloud-onedrive-auth-2.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-createServiceAccount.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-service.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-savePrivateKey.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-credentials.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-target-Google.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/google-security.png" TimeStamp="6/4/2017 6:16:37 PM" />
+        <Url Source="Content/Resources/Images/er2-install-win-3.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-install-win-2.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/SaveButton.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/Image.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/er2-https.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-firefox-insecure-3-e.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/winscp.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-add-security-exception.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/diagram_ERNetwork.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-licensedetails-clean.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/BasicSteps.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/KeyFeatures.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/WhatsNew.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/FAQs.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/diagram_ERComponent.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/PDF Cover.png" TimeStamp="31/3/2017 2:38:40 PM" />
+        <Url Source="Content/Resources/Images/er2-installer-start.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-install-warning.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-admin.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-verify-agent.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2_web_upload_license.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-licensedetails.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-download-dbruntime.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-pwd-recovery-noMTA.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-agentmgr.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-MAC-installsuccess.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-install-clockUTC.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-install-clock.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-install-password.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-install-complete.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-MAC-installsoftware.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-MAC-nodeagent.png" TimeStamp="5/4/2017 12:13:08 PM" />
+        <Url Source="Content/Resources/Images/er2-select-target-type-netowrk.png" TimeStamp="6/4/2017 6:16:37 PM" />
+    </GeneratedFiles>
+</CatapultProject>

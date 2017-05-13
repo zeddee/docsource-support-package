@@ -1,0 +1,178 @@
+#currentSoftwareVersion {
+	position:absolute;
+	top:0.5em;
+	right:0.5em;
+	font-size:0.8rem;
+	color:rgba(170,170,170,50);
+}
+@media (max-width: 768px) {
+	#currentSoftwareVersion {
+		right: 1.5em;
+	}
+}
+/* footer */
+
+footer,
+.footer
+{
+	position: relative;
+	bottom: 0;
+	margin-top: 3rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	min-height: 6rem;
+	color: #6f6f6f;
+	background: #282828;
+	font-size: 0.9rem;
+}
+
+.footer .outer-row,
+footer .outer-row
+{
+	line-height: 1.875rem;
+	padding: 0;
+}
+
+
+
+.footer a,
+footer a
+{
+	color: #666666;
+}
+
+.footer.navList>ul {
+	float:right;
+}
+.footer.navList>ul::after{
+	content:'';
+	display:table;
+	clear:both;
+}
+
+.copyright
+{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.copyright > span
+{
+	line-height: 1.21rem;
+	vertical-align: middle;
+}
+
+
+/* madcap footer styles */
+
+.HomeMasterPageFooter
+{
+	mc-grid-row: true;
+
+}
+
+.HomeMasterPageFooter::before
+{
+	content: ' ';
+	display: table;
+}
+
+.HomeMasterPageFooter::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+/* madcap footer styles end */
+/* FOOTER SOCIAL START */
+
+.footer,
+.social,
+.fb,
+.twitter,
+.g,
+.linkedin,
+.rss,
+.circle,
+.footer .social .fb:hover,
+.footer .social .twitter:hover,
+.footer .social .g:hover,
+.footer .social .linkedin:hover,
+.footer .social .rss:hover
+{
+	mc-hidden: hidden;
+	/* THIS IS SUPPOSED TO HIDE THE STYLES FROM THE STYLE PANEL. WHY IS THIS NOT WORKING? */
+}
+
+.footer .social .fb:hover,
+.footer .social .twitter:hover,
+.footer .social .g:hover,
+.footer .social .linkedin:hover,
+.footer .social .rss:hover
+{
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.footer .social .circle
+{
+	border-radius: 50%;
+	height: 35px;
+	width: 35px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 37px;
+	color: #fff;
+	display: inline-block;
+}
+
+.footer .social .fb:hover
+{
+	background: #446eb2;
+}
+
+.footer .social .fb
+{
+	background: #537bbd;
+}
+
+.footer .social .twitter:hover
+{
+	background: #61c4ed;
+}
+
+.footer .social .twitter
+{
+	background: #78cdf0;
+}
+
+.footer .social .g:hover
+{
+	background: #c63d2a;
+}
+
+.footer .social .g
+{
+	background-color: #d44936;
+}
+
+.footer .social .linkedin:hover
+{
+	background-color: #1c76b1;
+}
+
+.footer .social .linkedin
+{
+	background-color: #2085c7;
+}
+
+.footer .social .rss
+{
+	background-color: #f39200;
+}
+
+/* FOOTER SOCIAL END */
+/* end footer */

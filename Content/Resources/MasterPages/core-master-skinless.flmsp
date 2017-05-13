@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="1533" MadCap:lastWidth="276" class="HomePage">
+    <head>
+    </head>
+    <body>
+        <header class="header row"><span id="currentSoftwareVersion"><MadCap:variable name="General.Software Version" /></span>
+            <MadCap:snippetBlock src="../Snippets/header-skinless.flsnp" />
+        </header>
+        <main class="main row">
+            <section class="sideNav large-3 columns">
+                <ul>
+					<li class="productName"><MadCap:variable name="General.ProductFullName" /></li>
+                    <li>
+                        <MadCap:searchBarProxy data-mc-skin="/Project/Skins/searchbar.flskn" />
+                    </li>
+                    <li>
+                        <ul class="show-for-large hamburger">
+                            <li>
+                                <MadCap:menuProxy mc-linked-toc="/Project/TOCs/Master.fltoc" style="mc-toc-depth: -1;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/menu-sideNav.flskn" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul class="hide-for-large hamburger">
+                            <li>
+                                <MadCap:menuProxy mc-linked-toc="/Project/TOCs/Master.fltoc" style="mc-toc-depth: -1;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/menu-sideNav.flskn" />
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <section class="mainContent large-9 columns">
+                <section class="breadcrumbs">
+                    <MadCap:breadcrumbsProxy />
+                </section>
+                <MadCap:bodyProxy />
+            </section>
+        </main>
+        <footer class="row footer HomeMasterPageFooter">
+            <MadCap:snippetBlock src="../Snippets/footer-standard.flsnp" />
+        </footer>
+        <script type="text/javascript" src="../Scripts/custom-mc-hamburger.js">
+        </script>
+    </body>
+</html>

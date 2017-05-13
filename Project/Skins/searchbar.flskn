@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Search Bar skin"
+  ComponentType="SearchBar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Submit Button">
+        <Properties>
+          <Property
+            Name="Width">3em</Property>
+          <Property
+            Name="BackgroundColor">transparent</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Filter">
+        <Properties>
+          <Property
+            Name="BackgroundColor">transparent</Property>
+          <Property
+            Name="BorderRight">solid 0px #4d4d4d</Property>
+          <Property
+            Name="BorderLeft">solid 0px #4d4d4d</Property>
+          <Property
+            Name="BorderTop">solid 0px #cccccc</Property>
+          <Property
+            Name="BorderBottom">solid 0px #cccccc</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="MarginBottom">0.5em</Property>
+          <Property
+            Name="Width">100%</Property>
+          <Property
+            Name="BorderTop">solid 1px #cccccc</Property>
+          <Property
+            Name="BorderRight">solid 1px #cccccc</Property>
+          <Property
+            Name="BorderBottom">solid 1px #cccccc</Property>
+          <Property
+            Name="BorderLeft">solid 1px #cccccc</Property>
+          <Property
+            Name="BorderTopLeftRadius">3px</Property>
+          <Property
+            Name="BorderTopRightRadius">3px</Property>
+          <Property
+            Name="BorderBottomRightRadius">3px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">3px</Property>
+          <Property
+            Name="MarginTop">0em</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Input">
+        <Properties>
+          <Property
+            Name="PaddingLeft">10px</Property>
+          <Property
+            Name="Color">#4d4d4d</Property>
+          <Property
+            Name="BackgroundColor">#ffffff</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Search Submit Button">
+          <Properties>
+            <Property
+              Name="BackgroundColor">#ffffff</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

@@ -1,0 +1,525 @@
+/*<meta />*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400_400i_700_700i?family=Montserrat:400_400i_700_700i');
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+html
+{
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 0;
+	color: #222;
+}
+
+html a
+{
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	color: #1973ba;
+}
+
+html a:hover
+{
+	color: #80c0ee;
+	text-decoration: none;
+}
+
+footer a:hover
+{
+	color: #e8f1f5;
+}
+
+body
+{
+	font-family: 'Montserrat', sans-serif;
+	color: #222;
+	height: 100vh;
+}
+
+header,
+.header,
+main,
+.main,
+footer,
+.footer
+{
+	display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+	font-weight: 700;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #4d4d4d;
+	line-height: 1.125em;
+}
+
+h1
+{
+	font-size: 1.5rem;
+	text-rendering: optimizeLegibility;
+	margin: 1.5rem 0;
+}
+
+h1.title
+{
+	border-bottom: 1px solid #b3b3b3;
+	padding-bottom: 1.125rem;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+	color: #152430;
+	letter-spacing: 1px;
+}
+
+h2
+{
+	font-size: 1.125rem;
+	color: #1973ba;
+	margin-bottom: 1.125rem;
+}
+
+h3,
+h4
+{
+	font-size: 0.875rem;
+}
+
+h3
+{
+	color: #f9af14;
+	margin-bottom: 0.875rem;
+}
+
+h4
+{
+	color: #1973ba;
+}
+
+h5,
+h6
+{
+	font-size: 0.75rem;
+}
+
+p
+{
+	line-height: 1.5;
+	font-size: 1rem;
+	margin: 1.428rem 0;
+}
+
+.MCBreadcrumbs,
+.MCBreadcrumbsSelf
+{
+	background: #eee;
+	-moz-border-radius: 0.15rem;
+	-webkit-border-radius: 0.15rem;
+	border-radius: 0.15rem;
+	padding: 0.2rem 0.5rem;
+	margin-right: 0.2rem;
+	white-space: nowrap;
+}
+
+.MCBreadcrumbs:last-of-type
+{
+	margin-right: 0;
+}
+
+/* topnav hack to get hamburger menu to not float over logo */
+
+/* doesn't work if i want my top nav to occupy the width of the screen.
+@media (max-width:62rem){
+.tab-bar .menu-icon span {
+	margin-left: -50px;
+}
+}
+*/
+
+/* topnav hack end */
+/* tables. Blanket styles here. Edit ../TableStyles/ for specific in-app styles */
+
+table
+{
+	font-size: 0.9rem;
+	margin-bottom: 0.428rem;
+}
+
+/* end tables */
+/* <a> */
+
+a,
+a:hover
+{
+	/* experiment -- move transition attributes to html level */
+}
+
+* > a,
+.xref
+{
+	color: #1973ba;
+	text-decoration: none;
+}
+
+a:hover,
+.xref:hover
+{
+	color: #80c0ee;
+	text-decoration: underline;
+	transition: all 0.2s ease-in-out;
+}
+
+a.Popup
+{
+	
+}
+
+/* end <a> */
+/* img */
+
+figure,
+figure.figure
+{
+	display: block;
+	margin: 0;
+	margin-bottom: 1rem;
+	border: 2px solid #1973ba;
+	padding: 0.5rem 1rem;
+	-moz-border-radius: 0.15rem;
+	-webkit-border-radius: 0.15rem;
+	border-radius: 0.15rem;
+	font-family: verdana, sans-serif;
+	font-size: 0.9rem;
+	font-weight: 300;
+	color: #111;
+}
+
+figure figcaption,
+figure figcaption.caption
+{
+	background: #eee;
+	padding: 0.5rem 1rem;
+	margin-top: 0.5rem;
+	margin-bottom: 1rem;
+}
+
+figure img
+{
+	border: none;
+}
+
+figcaption,
+figcaption.caption
+{
+	mc-auto-number-format: 'H:{b}Figure {n+}: ';
+}
+
+td img
+{
+	border: none;
+}
+
+img
+{
+	max-width: 100%;
+	border: 1px solid #1973ba;
+	margin: 1rem auto 0 auto;
+	height: auto;
+	border: 1px solid;
+}
+
+img.Border
+{
+	border: 1px solid black;
+}
+
+img.imgSmall
+{
+	width: 12rem;
+}
+
+img.imgMedium
+{
+	width: 30rem;
+}
+
+img.imgLarge
+{
+	width: 50rem;
+}
+
+img.imgFull
+{
+	width: 100%;
+}
+
+/* end img */
+/* list */
+
+ol,
+ul
+{
+	line-height: 1.5;
+}
+
+ol li,
+ul li
+{
+	margin-bottom: 0.65rem;
+}
+
+ol li:last-child,
+ul li:last-child
+{
+	margin-bottom: 0;
+}
+
+ol ol
+{
+	list-style-type: lower-alpha;
+}
+
+ol li p,
+ul li p
+{
+	margin: 0 0.21rem 0 0;
+	/* this is a workaround where the wysiwyg editor inserts an additional <p> in the <li> */
+}
+
+/* end list */
+/* <code> */
+/* NB: Need to nest <pre> tags in <code> tags to maintain formatting of code; but should not use <pre> outright as <code> is formatted to display:block; */
+
+code,
+code.code
+{
+	/*have to add a .code class or it won't show up in Flare's style panel */
+	display: block;
+	font-size: 0.9rem;
+	font-family: monospace;
+	color: #4d4d4d;
+	-moz-border-radius: 0.15rem;
+	-webkit-border-radius: 0.15rem;
+	border-radius: 0.15rem;
+	border: 1px solid #aaa;
+	background: #eee;
+	padding: 1rem;
+	margin-top: 1.21rem;
+	margin-bottom: 1.21rem;
+	overflow-x: scroll;
+}
+
+code .comment
+{
+	font-family: monospace;
+	color: #1973ba;
+}
+
+.code-snippet,
+kbd
+{
+	font-size: 0.9rem;
+	font-family: monospace;
+	-moz-border-radius: 0.15rem;
+	-webkit-border-radius: 0.15rem;
+	border-radius: 0.15rem;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+}
+
+.code-snippet
+{
+	color: #6d6d6d;
+	background: #e8f1f5;
+}
+
+kbd
+{
+	color: #222;
+	border: 1px solid #aaa;
+	font-weight: 700;
+}
+
+/* end <code> */
+/* navigation list */
+
+.navList ul
+{
+	padding-left: 0;
+	margin-left: 0;
+	display: inline-block;
+}
+
+.navList ul + ul
+{
+	margin-top: -1.25rem;
+	margin-left: 0.5rem;
+}
+
+.navList ul li
+{
+	list-style: none;
+	display: inline-block;
+	margin-right: .5rem;
+	line-height: 5em;
+}
+
+.navList ul li:last-of-type
+{
+	margin: 0;
+	padding: 0;
+}
+
+/* navigation list end */
+/* Note, info, warning etc. boxes */
+
+div.note,
+div.tip,
+div.warning,
+div.example,
+div.info
+{
+	font-size: 0.875rem;
+	-moz-border-radius: 0.15rem;
+	-webkit-border-radius: 0.15rem;
+	border-radius: 0.15rem;
+	padding: 1rem;
+	border: solid 1px;
+	margin-top: 1.21rem;
+	margin-bottom: 1.21rem;
+}
+
+div.note
+{
+	border-color: #f9af14;
+	background-color: #ffe4ad;
+}
+
+div.info
+{
+	border-color: #00B2FF;
+	background-color: #A8E4FE;
+}
+
+div.warning
+{
+	border-color: #FF0000;
+	background-color: #FF4444;
+}
+
+div.tip
+{
+	border-color: #60BF33;
+	background-color: #97E871;
+}
+
+div.example
+{
+	border-color: #ccc;
+	background-color: #eee;
+}
+
+div.note::before,
+div.info::before,
+div.warning::before,
+div.tip::before,
+div.example::before
+{
+	font-weight: 700;
+}
+
+div.note::before
+{
+	content: "Note: ";
+}
+
+div.info::before
+{
+	content: "Info: ";
+}
+
+div.warning::before
+{
+	content: "Warning: ";
+}
+
+div.tip::before
+{
+	content: 'Tip: ';
+}
+
+div.example::before
+{
+	content: "Example: ";
+}
+
+/* end Note, info, warning etc. boxes */
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|breadcrumbsProxy
+{
+	font-size: 0.8rem;
+	color: #4d4d4d;
+	word-spacing: -1px;
+	line-height: 1.81em;
+	margin-top: 0.2rem;
+}
+
+img.noBorder
+{
+	border: solid 0px #000000;
+}
+
+div.page
+{
+	font-size: 0.8rem;
+	line-height: 1em;
+}
+
+h1.printTitle
+{
+	border-bottom: 1px solid #b3b3b3;
+	padding-bottom: 1.125rem;
+	color: #ffffff;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	font-size: 20pt;
+	letter-spacing: 1px;
+}
+

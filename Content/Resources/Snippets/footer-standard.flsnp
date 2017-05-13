@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="12" MadCap:lastWidth="394">
+<head>
+</head>
+<body>
+<section class="outer-row">
+    <section class="footerContain HomeMasterPageFooter">
+    <section class="copyright large-8 columns text-center">
+        <span>Copyright © 2017 Ground Labs Pte Ltd - All rights reserved | <a href="https://www.groundlabs.com/legal">Legal</a> | <a href="https://www.groundlabs.com/legal/privacy">Privacy</a> | <a href="https://www.groundlabs.com/legal/eula">EULA</a></span>
+    </section>
+    <section class="navList social large-4 columns text-center">
+        <ul>
+        <li><a href="https://www.facebook.com/groundlabs" target="_blank"><div class="circle fb"><i class="fa fa-facebook"></i></div></a>
+        </li>
+        <li><a href="https://twitter.com/Groundlabs" target="_blank"><div class="circle twitter"><i class="fa fa-twitter"></i></div></a>
+        </li>
+        <li><a href="https://plus.google.com/+Groundlabs/about" target="_blank"><div class="circle g"><i class="fa fa-google-plus"></i></div></a>
+        </li>
+        <li><a href="https://www.linkedin.com/company/ground-labs" target="_blank"><div class="circle linkedin"><i class="fa fa-linkedin"></i></div></a>
+        </li>
+        <li><a href="http://blog.groundlabs.com/" target="_blank"><div class="circle rss"><i class="fa fa-rss"></i></div></a>
+        </li>
+        </ul>
+    </section>
+    </section>
+</section>
+</body>
+</html>

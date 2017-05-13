@@ -1,0 +1,297 @@
+﻿/*<meta />*/
+
+@import url('editor.css');
+
+@import url('footer.css');
+
+@import url('foundation.min.css');
+
+@import url('font-awesome.min.css');
+
+body
+{
+	min-width: 320px;
+}
+
+.sideNav,
+.main
+{
+	vertical-align: top;
+}
+
+div.search-submit
+{
+	height: 2.4375rem;
+}
+
+header,
+.header,
+footer,
+.footer
+{
+	max-width: 100%;
+	height: auto;
+}
+
+main,
+.main,
+.footerContain,
+.headerContain
+{
+	max-width: 71.25rem;
+	height: auto;
+	margin: auto;
+}
+
+@media (max-width: 1024px) {
+	main,
+	.main,
+	.footerContain,
+	.headerContain
+	{
+		max-width: 60rem;
+	}
+}
+
+.mc-component > li {
+	display: table;
+}
+.productName {
+	font-weight:700;
+	font-size:1.2rem;
+	margin-top:-0.1875rem;
+}
+.breadcrumbs
+{
+	margin-top: 0.625rem;
+}
+
+.docsLogo
+{
+	border: none;
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+	margin-left: 1rem;
+	margin-right: 4rem;
+	display: inline-block;
+}
+
+/* SIDE NAV */
+
+.sideNav ul
+{
+	list-style: none;
+	overflow-x: hidden;
+	padding-left: 0;
+	margin-bottom: 0;
+}
+
+.sideNav li {
+	margin-bottom: 10px;
+}
+
+.sideNav .selected {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.mc-component > li
+{
+	display: table;
+}
+
+.sideNav .sub-menu {
+	margin-left: 15px;
+	padding-top: 10px;
+
+	display: none;
+}
+
+.sideNav li #first-child .sub-menu{
+	display: block;
+}
+
+/* header navList -- because for some reason the main navList class refuses to propogate to this stylesheet */
+.headerNavList {
+	padding: 30px 0;
+}
+
+.logo {
+	float: left;
+}
+
+.headerNavList .nav {
+	float: right;
+	line-height: 45px;
+}
+
+.headerNavList .nav a
+{
+	color: #fff;
+	font-size: 1rem;
+	list-style: none;
+	padding-left: 0;
+
+	display: inline-block;
+	vertical-align: middle;
+
+	margin-right: 1.875rem;
+}
+
+.headerNavList .nav a:hover {
+	color: #80c0ee;
+	text-decoration: none;
+	transition: all 0.2s ease-in-out;
+}
+
+.headerNavList .nav a:last-child {
+	margin-right: 1rem;
+}
+
+.toggle-menu {
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	padding: 0.9375rem;
+}
+
+@media (max-width: 640px) {
+	.headerNavList {
+		padding: 1.25rem 0;
+	}
+
+	.toggle-menu {
+		display: none;
+	}
+
+	.headerNavList button {
+		float: right;
+		color: #fff;
+		font-size: 20px;
+		margin-right: 20px;
+		margin-top: 16px;
+	}
+
+	.toggle-menu a {
+		color: #1973ba;
+		margin-right: 30px;
+	}
+
+	.toggle-menu a:last-child {
+		margin-right: 0;
+	}
+
+	.nav {
+		text-align: center;
+	}
+}
+
+@media (max-width: 320px) {
+	.toggle-menu a {
+		margin-right: 15px;
+	}
+}
+
+/* COLLAPSIBLE SIDEBAR */
+.hamburger-expand{
+	padding:0em 0.2em;
+	font-size:1.1em;
+	border:1px solid #999;
+	-moz-border-radius: 0.15rem;
+	-webkit-border-radius: 0.15rem;
+	border-radius: 0.15rem;
+}
+.hamburger-expand:hover {
+	border:1px solid #ccc;
+}
+.hamburger
+{
+	border-bottom: 1px solid #aaa;
+}
+
+.hamburger ul
+{
+	padding-left: 0;
+	margin-bottom: 10px;
+}
+
+.hamburger ul li
+{
+	font-size: 1rem;
+	overflow-wrap: break-word;
+}
+
+.hamburger button,
+.small-hamburger button
+{
+	color: #1973ba;
+}
+
+.hamburger button:hover,
+.small-hamburger button:hover
+{
+	color: #80c0ee;
+	transition: all 0.3s ease-in-out;
+}
+
+.small-hamburger { /* for iPhone 5 and smaller screens */
+	display: none;
+}
+
+
+@media (max-width: 640px) {
+	.hamburger ul li {
+		font-size: 0.875rem;
+	}
+}
+
+@media (max-width: 360px) {
+	.small-hamburger {
+		display: block;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #ccc;
+	}
+
+	.hamburger {
+		/*display: none;*/
+	}
+}
+/* header stylesheet end */
+/* START HEADER */
+
+header,
+.header
+{
+	background-color: #1f3546;
+	font-size: 1rem;
+}
+
+@media (max-width: 480px)
+{
+	.headerNavList ul
+	{
+		margin-top: 1rem;
+	}
+}
+
+
+/* Footer */
+.navList ul {
+	float: right;
+	clear: both;
+}
+
+@media (max-width: 768px)
+{
+	.navList {
+		text-align: center;
+	}
+
+	.navList ul
+	{
+		float: none;
+	}
+
+	.copyright {
+		text-align: center;
+	}
+}

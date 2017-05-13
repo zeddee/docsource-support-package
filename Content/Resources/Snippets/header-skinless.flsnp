@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="12" MadCap:lastWidth="394">
+<head>
+</head>
+<body>
+<section class="headerContain">
+        <section class="row hide-for-small-only headerNavList">
+            <section class="small-12 columns">
+              <div class="logo">
+                    <a href="#"><img src="../docs-images/core/docs-icon.png" class="docsLogo" /></a>
+                </div>
+
+                <nav class="nav">
+                    <a href="#">Home</a>
+                    <a href="#">ER2</a>
+                    <a href="#">CR</a>
+                    <a href="#">DR</a>
+                    <a href="https://support.groundlabs.com/">Support</a>
+                </nav>
+
+                <div style="clear: both;"></div>
+            </section>
+        </section>
+        <section class="show-for-small-only headerNavList">
+                    <section>
+                        <div class="logo">
+                            <a href="#"><img src="../docs-images/core/docs-icon.png" class="docsLogo" /></a>
+                        </div>
+
+                        <button class="fa fa-bars"></button>
+                        <div style="clear: both;"></div>
+                    </section>
+                </section>
+
+                <nav class="nav toggle-menu show-for-small-only">
+                    <a href="#">Home</a>
+                    <a href="#">ER2</a>
+                    <a href="#">CR</a>
+                    <a href="#">DR</a>
+                    <a href="https://support.groundlabs.com/">Support</a>
+                </nav>
+</section>
+</body>
+</html>

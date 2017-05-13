@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="html_rosliana"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/Stylesheets/skinless.css"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  PreCompileScaledImages="false"
+  EquationsOutputType="PNG"
+  Skin="(none)"
+  MenuSkin="/Project/Skins/menu-sideNav.flskn"
+  SearchBarSkin="/Project/Skins/searchbar.flskn"
+  SearchResultsSkin="/Project/Skins/search-results.flskn"
+  MasterPage="/Content/Resources/MasterPages/core-master-skinless.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>
